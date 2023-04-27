@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /BotDesktop
+Disallow: /BotMobile
+Disallow: /Desktop
+Disallow: /Mobile
+Disallow: /[breakpoint]
+
+# Host
+Host: https://www.cyberscope.io/
+
+# Sitemaps
+Sitemap: https://www.cyberscope.io/sitemap.xml
